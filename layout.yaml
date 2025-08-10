@@ -45,6 +45,7 @@ layouts:
         registerMiddleware(h)
 
       	h.Spin()
+        {{.MainData}}
       }
 
       func registerMiddleware(h *server.Hertz) {
