@@ -1,8 +1,8 @@
 {
   "*": {
     "GoModule": "github.com/hertz/hello",
-    "ServiceName": "hello",
-    "UseApacheThrift": true
+    "ServiceName": "Segefef",
+    "UseApacheThrift": false
   },
   "main.go": {
     "MainData": "this is customized render data"
