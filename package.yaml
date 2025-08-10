@@ -4,7 +4,7 @@ layouts:
       {{$OutDirs := GetUniqueHandlerOutDir .Methods}}
       package {{.PackageName}}
       import (
-       "context"
+  
 
        "github.com/cloudwego/hertz/pkg/app"
         "github.com/cloudwego/hertz/pkg/protocol/consts"
